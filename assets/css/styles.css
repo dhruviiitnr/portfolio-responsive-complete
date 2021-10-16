@@ -73,8 +73,7 @@ img{
   max-width: 100%;
   height: auto;
   display: block;
-  border-radius: 100%;
-  backgroung-color:blue;
+
 }
 
 /*===== CLASS CSS ===== */
@@ -219,7 +218,6 @@ img{
   right: 0;
   bottom: 0;
   width: 295px;
-  border-radius: 100%;
 }
 
 /*BUTTONS*/
